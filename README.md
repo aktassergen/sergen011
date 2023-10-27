@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sergen
-- 👀 I’m interested in C,C++,C#
+- 👀 I’m interested in C#,SQL,HTML,CSS,JavaStript,C,C++
 - 🌱 I’m currently learning C,C++,C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? (srgnakts@gmail.com)
