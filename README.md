@@ -5,7 +5,7 @@
 - 📫 How to reach me ?
 e-Mail=srgnakts@gmail.com
 Phone=+90 505 607 6819
-linkedin=https://www.linkedin.com/in/sergen-akta%C5%9F-aa44981bb/
+linkedin=https://www.linkedin.com/in/sergen-aktas/
 
 <!---
 sergen/sergen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
